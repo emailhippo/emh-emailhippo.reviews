@@ -1,0 +1,7 @@
+main:
+  - title: "reviews"
+    url: /reviews
+  - title: "privacy"
+    url: /privacy
+  - title: "contact"
+    url: https://www.emailhippo.com/contact/
