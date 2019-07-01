@@ -1,12 +1,12 @@
 ---
 layout: splash
 title: Email Checker Services from Email Hippo
-description: 
+description: Easily compare email verification providers. Reviews, features and stats for well known providers. How does your favourite provider compare? Find out today.
 permalink: /
 header:
-  image: https://picsum.photos/600/1280/
-  image-description: "some image"
-  caption: "Photo credit: unsplash"
+  image: /assets/images/branding/masthead2400x1883.png
+  image-description: "Compare Email Verification Providers"
+  caption: "Compare Email Verification Providers"
 feature_row:
   - image_path: https://picsum.photos/200/300/
     alt: "placeholder image 1"
@@ -24,7 +24,8 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
+# Compare Email Verification Providers
 
-{% include feature_row %}
-# Under construction.
+## Get Started
 
+[Reviews Listing](/reviews)

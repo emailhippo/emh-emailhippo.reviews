@@ -4,13 +4,15 @@ descripion: Finding a reliable enterprise level email validator is hard. Check o
 excerpt: How does new email verifification provider ZeroBounce stack up against the older Email Hippo services? Find out now.
 categories: [reviews]
 permalink: /reviews/zerobounce
-image: 
+image: /assets/images/stock/hands-compare250x167.jpg
 toc: true
 toc_sticky: true
 read_time: false
 ---
 
 [Try Email Hippo Free!](https://register.emailhippo.com/signup){: .btn .btn--danger .btn--large style="display:block;width:350px;align:center;margin:0 auto;"}
+
+{% include figure image_path="/assets/images/stock/hands-compare500x334.jpg" alt="Compare Email Hippo Versus ZeroBounce" caption="Compare Email Hippo with ZeroBounce" %}
 
 ## Overview
 The choice is clear when you review the services between EmailHippo.com and ZeroBounce.
@@ -25,8 +27,10 @@ Lots of your emails bounce, and your sender reputation almost got you blackliste
 |**ISO27001 data compliance**                          | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-check fa-2x" style="color:green;"></i>      |
 |**GDPR data compliance**                              | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-check fa-2x" style="color:green;"></i>      |
 |**Data center location(s)**                           | Europe                                                         | United States                                                |
+|**24/7 support**                                      | By people and robots                                           | undisclosed                                                  |
 |**Your data not re-used or sold to 3rd parties**      | <i class="fas fa-check fa-2x" style="color:green;"></i>        | unclear                                                      |
-|**Grey listing capable**                              | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-check fa-2x" style="color:green;"></i>        |
+|**Grey listing capable**                              | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-check fa-2x" style="color:green;"></i>      |
+|**Server response speed**                             | 1 - 30 seconds per query                                       | 1 - 70 seconds per query                                     |
 |**Service Level Agreement**                           | 99.99%                                                         | not stated                                                   |
 |**Public uptime status page avaialable**              | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-times fa-2x" style="color:red;"></i>        |
 |**Social media picture**                              | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-times fa-2x" style="color:red;"></i>        |
@@ -36,8 +40,9 @@ Lots of your emails bounce, and your sender reputation almost got you blackliste
 |**Years in business**                                 | 10                                                             | < 4                                                          |
 |**Catch-all Detection**                               | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-check fa-2x" style="color:green;"></i>      |
 |**Disposable Email Detection**                        | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-check fa-2x" style="color:green;"></i>      |
+|**Disposable Email Detection (AI)**                   | 24/7 inclusion using advanced Artificial Intelligence          |  static list updated manually / infrequently                 |
 |**Data encryption at rest**                           | secure SHA256                                                  | undisclosed                                                  |
-|**Cloudflare protected**                              | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-check fa-2x" style="color:green;"></i>        |
+|**Cloudflare protected**                              | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-check fa-2x" style="color:green;"></i>      |
 |**Multiple data centers for speed and reliability**   | <i class="fas fa-check fa-2x" style="color:green;"></i>        | undisclosed                                                  |
 |**Geo-location data**                                 | <i class="fas fa-check fa-2x" style="color:green;"></i>        | <i class="fas fa-times fa-2x" style="color:red;"></i>        |
 {: style="width:100%;display:table;"}
