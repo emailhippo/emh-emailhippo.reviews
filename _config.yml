@@ -40,6 +40,12 @@ footer:
       icon: "fab fa-facebook-square"
       url: "https://www.facebook.com/emailhippoworldwide/"
 
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-65302523-11"
+    anonymize_ip: false # default
+
 twitter:
   username: "Email_Hippo"
 

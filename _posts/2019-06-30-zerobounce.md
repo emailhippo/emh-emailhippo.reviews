@@ -1,8 +1,8 @@
 ---
 title: Review of Email Hippo Vs Zerobounce
-descripion: Finding a reliable enterprise level email validator is hard. Check out how we stack against Zerobounce. We don't harvest your data . Zerobounce Does!
-excerpt: How does new email verifification provider ZeroBounce stack up against the older Email Hippo services? Find out now.
-categories: [reviews]
+description: Finding a reliable enterprise level email validator is hard. Check out how we stack against Zerobounce. Does ZeroBounce sell your data?
+excerpt: How does new email verification provider ZeroBounce stack up against the older Email Hippo services? Find out now.
+categories: [reviews,zerobounce]
 permalink: /reviews/zerobounce
 image: /assets/images/stock/hands-compare250x167.jpg
 toc: true
@@ -12,7 +12,7 @@ read_time: false
 
 [Try Email Hippo Free!](https://register.emailhippo.com/signup){: .btn .btn--danger .btn--large style="display:block;width:350px;align:center;margin:0 auto;"}
 
-{% include figure image_path="/assets/images/stock/hands-compare500x334.jpg" alt="Compare Email Hippo Versus ZeroBounce" caption="Compare Email Hippo with ZeroBounce" %}
+{% include figure image_path="/assets/images/stock/hands-compare500x334.jpg" alt="Compare Email Hippo Versus ZeroBounce" caption="Compare ZeroBounce with Email Hippo" %}
 
 ## Overview
 The choice is clear when you review the services between EmailHippo.com and ZeroBounce.
@@ -77,5 +77,10 @@ As a customer, it's your choice as to which features are most important to you. 
 * More expensive
 
 ## Wrap up
+There are many email verification providers which is a great thing for you because choice is a good thing.
+
+So how does Email Hippo stack against ZeroBounce and which is best? We, the author (Email Hippo), can't give you the definitive objective answer because obviously we'd be biased in our opinion! However, the comparison above should help guide you to make your own decisions based on features etc.
+
+However, perhaps one important thing worth thinking about is which company would you ultimately trust with your data? Email Hippo has been around the longest and has a clear set of policies and statements that guarantee that we won't use your data for other purposes. ZeroBounce is less clear about its intent as to what it does with your data.
 
 [Try Email Hippo Free!](https://register.emailhippo.com/signup){: .btn .btn--danger .btn--large style="display:block;width:350px;align:center;margin:0 auto;"}
