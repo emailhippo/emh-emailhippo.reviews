@@ -12,7 +12,7 @@ read_time: false
 
 [Try Email Hippo Free!](https://register.emailhippo.com/signup){: .btn .btn--danger .btn--large style="display:block;width:350px;align:center;margin:0 auto;"}
 
-{% include figure image_path="/assets/images/stock/hands-compare500x334.jpg" alt="Compare Email Hippo Versus ZeroBounce" caption="Compare ZeroBounce with Email Hippo" %}
+{% include figure image_path="/assets/images/stock/hands-compare500x334.jpg" alt="Compare Email Hippo Versus ZeroBounce" caption="Compare Email Hippo with ZeroBounce" %}
 
 ## Overview
 The choice is clear when you review the services between EmailHippo.com and ZeroBounce.
